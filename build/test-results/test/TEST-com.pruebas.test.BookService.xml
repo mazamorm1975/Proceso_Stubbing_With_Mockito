@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pruebas.test.BookService" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-28T03:15:48" hostname="DESKTOP-VF1PQO4" time="129.071">
+  <properties/>
+  <testcase name="CalcularTest()" classname="com.pruebas.test.BookService" time="129.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
